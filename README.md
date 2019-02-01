@@ -2,7 +2,7 @@ print "jangan di recode asw_-"
 
 print "tinggal pake aja si ngapain di recode_-"
 
-print "hanya oramg gak pikir yang aja recode"
+print "hanya orang gak pikir yang aja recode"
 
 print "ingat karma is real"
 
